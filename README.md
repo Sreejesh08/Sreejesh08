@@ -1,4 +1,4 @@
-### Hi Sreejesh here, 👋
+### Hi Sreejesh here 👋
 
 <!--
 **Sreejesh08/Sreejesh08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
